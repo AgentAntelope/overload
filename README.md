@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/overload.png)](http://badge.fury.io/rb/overload)
+
 # Overload
 
 Allows instance methods to be overloaded.
